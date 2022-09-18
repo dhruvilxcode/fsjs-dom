@@ -2,13 +2,13 @@
 
 # 1. Webiste Name: [Dev To](https://dev.to/)
 
-### Topics
+### Toimages/Pics
 
     - Query Selctory, Inner HTML
 
 ### Sample Image
 
-![Sample One](./Pic1.png)
+![Sample One](./images/Pic1.png)
 
 ### Tasks
 
@@ -16,7 +16,7 @@
 
 ### Output
 
-![Output](./Pic2.png)
+![Output](./images/Pic2.png)
 
 
 ### Code
@@ -37,7 +37,7 @@ passion.innerHTML = "I Create products, design & code them 💙";
 
 ### Task
 
-![Store](./Picture_3.png)
+![Store](./images/Picture_3.png)
 
 ### Fetch all the product name and store in an array
 
@@ -68,13 +68,13 @@ console.log(devicesArr);
 
 # 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
 
-### Topics
+### Toimages/Pics
 
     - Get Element By Id, Create Element, Create Text Node, Append Child
 
 ### Sample Image
 
-![Sample One](./Pic4.png)
+![Sample One](./images/Pic4.png)
 
 ### Tasks
 
@@ -82,7 +82,7 @@ console.log(devicesArr);
 
 ### Output
 
-![Output](./Pic5.png)
+![Output](./images/Pic5.png)
 
 
 ### Code
@@ -105,13 +105,13 @@ accordian.appendChild(newFaQ)
 
 # 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
-### Topics
+### Toimages/Pics
 
      Query Selector, InnerText
 
 ### Sample Image
 
-![Sample One](./Pic6.png)
+![Sample One](./images/Pic6.png)
 
 ### Tasks
 
@@ -119,7 +119,7 @@ accordian.appendChild(newFaQ)
 
 ### Output
 
-![Output](./Pic7.png)
+![Output](./images/Pic7.png)
 
 ### Code
 ```javascript
@@ -131,13 +131,13 @@ telephoneEl.setAttribute("href", "tel:+91 1234567890")
 
 # 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
 
-### Topics
+### Toimages/Pics
 
        getElementById, createElement, InnerText, append, setAttribute
 
 ### Sample Image
 
-![Sample One](./Pic8.png)
+![Sample One](./images/Pic8.png)
 
 ### Tasks
 
@@ -145,7 +145,7 @@ telephoneEl.setAttribute("href", "tel:+91 1234567890")
 
 ### Output
 
-![Output](./Pic9.png)
+![Output](./images/Pic9.png)
 
 ### Code
 ```javascript
@@ -158,13 +158,13 @@ for(let checkoutElement of checkoutElements) {
 
 # 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 
-### Topics
+### Toimages/Pics
 
     -   Query Selector, Event listeners, Changing Styles
 
 ### Sample Image
 
-![Sample One](./Pic10.png)
+![Sample One](./images/Pic10.png)
 
 ### Tasks
 
@@ -172,7 +172,7 @@ for(let checkoutElement of checkoutElements) {
 
 ### Output
 
-![Output](./Pic11.png)
+![Output](./images/Pic11.png)
 
 
 ### Code
@@ -187,22 +187,22 @@ searchInputElement.addEventListener('mouseover', function (){
 
 # 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
-### Topics
+### Toimages/Pics
 
        Form, Value, Submit
 
 ### Sample Image
 
-![Sample One](./Pic12.png)
+![Sample One](./images/Pic12.png)
 
 ### Tasks
 
-     To Search a topic in the MDN Search bar.
+     To Search a toimages/Pic in the MDN Search bar.
      First add a text to search in the search bar and then hit the submit search button to search the docs using DOM
 
 ### Output
 
-![Output](./Pic13.png)
+![Output](./images/Pic13.png)
 
 
 ### Code
@@ -222,13 +222,13 @@ searchFormElement.submit();
 
 # 8. Webiste Name: [Google](https://www.google.com/)
 
-### Topics
+### Toimages/Pics
 
        Remove Elements
 
 ### Sample Image
 
-![Sample One](./Pic14.png)
+![Sample One](./images/Pic14.png)
 
 ### Tasks
 
@@ -236,7 +236,7 @@ searchFormElement.submit();
 
 ### Output
 
-![Output](./Pic15.png)
+![Output](./images/Pic15.png)
 
 
 ### Code
@@ -257,13 +257,13 @@ languagesListElement.forEach((v, i)=>{
 
 # 9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
-### Topics
+### Toimages/Pics
 
        Change Font Family, Color of Text.
 
 ### Sample Image
 
-![Sample One](./Pic16.png)
+![Sample One](./images/Pic16.png)
 
 ### Tasks
 
@@ -271,7 +271,7 @@ languagesListElement.forEach((v, i)=>{
 
 ### Output
 
-![Output](./Pic17.png)
+![Output](./images/Pic17.png)
 
 ### Code
 ```javascript
@@ -284,13 +284,13 @@ headingElement.style.color = "red";
 
 # 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
 
-### Topics
+### Toimages/Pics
 
        querySelector, mouseover, click eventListener,  callback function, style,
 
 ### Sample Image
 
-![Sample One](./Pic18.png)
+![Sample One](./images/Pic18.png)
 
 ### Tasks
 
@@ -298,7 +298,7 @@ headingElement.style.color = "red";
 
 ### Output
 
-![Output](./Pic19.png)
+![Output](./images/Pic19.png)
 
 
 ### Code
@@ -315,13 +315,13 @@ signupBtnElement.addEventListener("mouseover", function(){
 
 # 11. Webiste Name: [realme](https://www.realme.com/in/)
 
-### Topics
+### Toimages/Pics
 
        querySelector,style,background-image
 
 ### Sample Image
 
-![Sample One](./Pic20.png)
+![Sample One](./images/Pic20.png)
 
 ### Tasks
 
@@ -329,7 +329,7 @@ signupBtnElement.addEventListener("mouseover", function(){
 
 ### Output
 
-![Output](./Pic21.png)
+![Output](./images/Pic21.png)
 
 
 ### Code
@@ -344,13 +344,13 @@ logoElement.style.backgroundImage = `url(${iNeuronLogo})`;
 
 # 12. Webiste Name: [Github](https://github.com/)
 
-### Topics
+### Toimages/Pics
 
        querySelector,style,background-Color
 
 ### Sample Image
 
-![Sample One](./Pic22.png)
+![Sample One](./images/Pic22.png)
 
 ### Tasks
 
@@ -358,7 +358,7 @@ logoElement.style.backgroundImage = `url(${iNeuronLogo})`;
 
 ### Output
 
-![Output](./Pic23.png)
+![Output](./images/Pic23.png)
 
 ### Code
 ```javascript
@@ -369,13 +369,13 @@ btnElement.style.backgroundColor = "blue";
 
 # 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
 
-### Topics
+### Toimages/Pics
 
        querySelector,innerHtml
 
 ### Sample Image
 
-![Sample One](./Pic24.png)
+![Sample One](./images/Pic24.png)
 
 ### Tasks
 
@@ -383,7 +383,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic25.png)
+![Output](./images/Pic25.png)
 
 
 ### Code
@@ -394,13 +394,13 @@ document.querySelector(".fl-heading-text").innerHTML = "JSBOOTCAMP"
 
 # 14. Webiste Name: [Asus](https://www.asus.com/in/)
 
-### Topics
+### Toimages/Pics
 
       querySelector,style,font-size
 
 ### Sample Image
 
-![Sample One](./Pic26.png)
+![Sample One](./images/Pic26.png)
 
 ### Tasks
 
@@ -408,7 +408,7 @@ document.querySelector(".fl-heading-text").innerHTML = "JSBOOTCAMP"
 
 ### Output
 
-![Output](./Pic27.png)
+![Output](./images/Pic27.png)
 
 ### Code
 ```javascript
@@ -417,13 +417,13 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px";
 
 # 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
 
-### Topics
+### Toimages/Pics
 
       querySelector,style.textAlign
 
 ### Sample Image
 
-![Sample One](./Pic28.png)
+![Sample One](./images/Pic28.png)
 
 ### Tasks
 
@@ -431,7 +431,7 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px";
 
 ### Output
 
-![Output](./Pic29.png)
+![Output](./images/Pic29.png)
 
 ### Code
 ```javascript
@@ -444,13 +444,13 @@ productTitleElement.style.textAlign = "right";
 
 # 16. Webiste Name: [Vercel](https://vercel.com/)
 
-### Topics
+### Toimages/Pics
 
      querySelector,innerHTMl
 
 ### Sample Image
 
-![Sample One](./Pic30.png)
+![Sample One](./images/Pic30.png)
 
 ### Tasks
 
@@ -458,7 +458,7 @@ productTitleElement.style.textAlign = "right";
 
 ### Output
 
-![Output](./Pic31.png)
+![Output](./images/Pic31.png)
 
 ### Code
 ```javascript
@@ -467,13 +467,13 @@ document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Sc
 
 # 17. Webiste Name: [Sony](https://www.sony.co.in/)
 
-### Topics
+### Toimages/Pics
 
     querySelector,innerHTMl
 
 ### Sample Image
 
-![Sample One](./Pic33.png)
+![Sample One](./images/Pic33.png)
 
 ### Tasks
 
@@ -481,7 +481,7 @@ document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Sc
 
 ### Output
 
-![Output](./Pic32.png)
+![Output](./images/Pic32.png)
 
 
 ### Code
@@ -492,13 +492,13 @@ document.querySelector(".btn.buy.buy-button").innerHTML = new Date().toString();
 
 # 18. Webiste Name: [Philips](https://www.philips.co.in/)
 
-### Topics
+### Toimages/Pics
 
      querySelector,style,backgroundcolor
 
 ### Sample Image
 
-![Sample One](./Pic34.png)
+![Sample One](./images/Pic34.png)
 
 ### Tasks
 
@@ -506,7 +506,7 @@ document.querySelector(".btn.buy.buy-button").innerHTML = new Date().toString();
 
 ### Output
 
-![Output](./Pic35.png)
+![Output](./images/Pic35.png)
 
 ### Code
 ```javascript
@@ -516,13 +516,13 @@ document.querySelector(".p-f03-footer-container").style.background = "orange";
 
 # 19. Webiste Name: [Canon](https://in.canon/)
 
-### Topics
+### Toimages/Pics
 
           querySelector,src
 
 ### Sample Image
 
-![Sample One](./Pic36.png)
+![Sample One](./images/Pic36.png)
 
 ### Tasks
 
@@ -530,7 +530,7 @@ document.querySelector(".p-f03-footer-container").style.background = "orange";
 
 ### Output
 
-![Output](./Pic37.png)
+![Output](./images/Pic37.png)
 
 ### Code
 ```javascript
@@ -539,13 +539,13 @@ document.querySelector(".logo").getAttribute("src");
 
 # 20. Webiste Name: [Oppo](https://www.oppo.com/in/)
 
-### Topics
+### Toimages/Pics
 
           querySelector,style,color
 
 ### Sample Image
 
-![Sample One](./Pic38.png)
+![Sample One](./images/Pic38.png)
 
 ### Tasks
 
@@ -553,7 +553,7 @@ document.querySelector(".logo").getAttribute("src");
 
 ### Output
 
-![Output](./Pic39.png)
+![Output](./images/Pic39.png)
 
 ### Code
 ```javascript
